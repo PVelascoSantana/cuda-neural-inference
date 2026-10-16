@@ -34,7 +34,6 @@ The results are used to analyze when GPU execution becomes worthwhile and how th
 
 * C++
 * CUDA
-* NVIDIA GPU programming
 * Make
 * Gnuplot
 * Bash scripting
