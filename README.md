@@ -203,8 +203,6 @@ make clean-all    # Remove executable, data files and graph files
 
 ## Examples
 
-## Examples
-
 The benchmark can be executed with:
 
 ```bash
